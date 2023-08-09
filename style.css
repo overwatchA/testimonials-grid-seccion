@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100;500;600&display=swap');
+
+
+.bg-light{
+    background-color: hsl(210, 46%, 95%);
+}
+
+.container{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.quote{
+    color: hsl(0, 0%, 81%);
+    font-size: .9rem;
+}
+
+.title-blue{
+    color: hsl(217, 19%, 35%);
+}
+
+.profile{
+    font-size: .85rem;
+}
+
+.parrafo-gray{
+    color: hsl(0, 0%, 43%);
+}
+
+h5{
+    font-size: 1.2rem;
+}
+
+.img{
+    width: 50; 
+    height: 50px;
+}
+
+.purple{
+    background-image: url(./images/bg-pattern-quotation.svg) ;
+    background-color: hsl(263, 55%, 52%);
+    background-repeat: no-repeat;
+    background-position: 80% top;
+}
+
+.gray{
+    background-color: hsl(217, 19%, 35%);
+}
+
+.blue{
+    background-color: hsl(219, 29%, 14%);
+    background-image: url();
+}
